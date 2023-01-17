@@ -19,7 +19,7 @@ num-bigint-dig = { version = "0.8.2", features = ["rand", "u64_digit", "serde"],
 num-traits = { version = "0.2.15", default-features = false }
 primal = "0.3.2"
 rand_core = { version = "0.6.4", default-features = false }
-rsa = { version = "0.7.2", default-features = false }
+rsa = { version = "0.8.0", default-features = false }
 serde = { version = "1.0.152", default-features = false, features = ["derive"] }
 
 [dev-dependencies]
